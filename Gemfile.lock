@@ -1,8 +1,8 @@
 GIT
   remote: git://github.com/couchbase/couchbase-ruby-client.git
-  revision: 119212c40e06a700528303c8015bb5922603360e
+  revision: de0885eaa70f22f51daf659d3fb3d361abe47c8f
   specs:
-    couchbase-ruby-client (0.9.1)
+    couchbase-ruby-client (0.9.3)
       curb (~> 0.7.15)
       memcached (~> 1.2.7)
       will_paginate (~> 2.3)
